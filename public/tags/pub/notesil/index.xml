@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pub/notesil on Taipei City FC Test Site</title>
+    <link>http://example.org/tags/pub/notesil/</link>
+    <description>Recent content in pub/notesil on Taipei City FC Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/pub/notesil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Styles</title>
+      <link>http://example.org/wp-global-styles-pub%2fnotesil/</link>
+      <pubDate>Thu, 11 Aug 2022 07:14:58 +0000</pubDate>
+      
+      <guid>http://example.org/wp-global-styles-pub%2fnotesil/</guid>
+      <description>{&amp;ldquo;version&amp;rdquo;:2,&amp;ldquo;isGlobalStylesUserThemeJSON&amp;rdquo;:true}</description>
+    </item>
+    
+  </channel>
+</rss>

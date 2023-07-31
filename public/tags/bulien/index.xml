@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bulien on Taipei City FC Test Site</title>
+    <link>http://example.org/tags/bulien/</link>
+    <description>Recent content in Bulien on Taipei City FC Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2011 08:37:57 +0000</lastBuildDate><atom:link href="http://example.org/tags/bulien/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Season So Far</title>
+      <link>http://example.org/the-season-so-far/</link>
+      <pubDate>Mon, 21 Feb 2011 08:37:57 +0000</pubDate>
+      
+      <guid>http://example.org/the-season-so-far/</guid>
+      <description>By Michael Christie After twelve games played, with ten victories, one draw and one defeat, Taipei City face into the penultimate game of the BML season in top spot. So, how has the season actually progressed for Taipei City so far…? Read on… Game 1: An Easy Opener against JFC Taipei City was lucky to have their easiest game of the season first. New to the BML, JFC strangely decided to field a weak team.</description>
+    </item>
+    
+  </channel>
+</rss>

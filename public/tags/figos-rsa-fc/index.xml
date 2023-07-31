@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Figos RSA FC on Taipei City FC Test Site</title>
+    <link>http://example.org/tags/figos-rsa-fc/</link>
+    <description>Recent content in Figos RSA FC on Taipei City FC Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Sep 2010 06:01:05 +0000</lastBuildDate><atom:link href="http://example.org/tags/figos-rsa-fc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIFA Futsal International City Cup Taipei</title>
+      <link>http://example.org/fifa-futsal-international-city-cup-taipei/</link>
+      <pubDate>Wed, 15 Sep 2010 06:01:05 +0000</pubDate>
+      
+      <guid>http://example.org/fifa-futsal-international-city-cup-taipei/</guid>
+      <description>By Michael Christie Aug 7-9th, 2010 Before I begin the report proper, let me just say why I think we were invited to the tournament. I believe we were brought in to play the role of whipping boys. We were paraded as the International Union of Brothers, but with only a couple of weeks notice we could hardly be expected to play as a well-oiled Futsal team, especially against high-level specialists in the game.</description>
+    </item>
+    
+  </channel>
+</rss>
